@@ -15,7 +15,7 @@ class Route
 
 private:
 
-    const std::string API_KEY = "cbb6f484-0bf1-4c95-8dbf-8e1d97a16901";
+    const std::string API_KEY = "тут должен быть апишник";
     nlohmann::json jsonResponseArr;
     nlohmann::json jsonResponseBack;
 
